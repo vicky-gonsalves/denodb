@@ -12,4 +12,4 @@ export {
   Database as MongoDBDatabase,
   init as initMongoDBPlugin,
   RELEASE_URL as MONGODB_PLUGIN_RELEASE_URL,
-} from "https://raw.githubusercontent.com/eveningkid/deno_mongo/master/mod.ts";
+} from "https://raw.githubusercontent.com/manyuanrong/deno_mongo/master/mod.ts";
